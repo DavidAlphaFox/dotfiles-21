@@ -1,8 +1,7 @@
 # Neon's Dotfiles
 
 [![Github Stars](https://img.shields.io/github/stars/GoodBoyNeon/dotfiles?color=89b4fa&label=Stars&logoColor=1e1e2e&style=for-the-badge)](https://github.com/GoodBoyNeon/dotfiles/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/GoodBoyNeon/dotfiles.svg)](https://github.com/GoodBoyNeon/dotfiles/issues)
-[![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/GoodBoyNeon/dotfiles)
+[![GitHub Issues](https://img.shields.io/github/issues/goodboyneon/dotfiles?color=fab387&style=for-the-badge)](https://github.com/GoodBoyNeon/dotfiles/issues)
 
 > These are my personal configuration files I use on a daily basis. The files are most compatible on an Arch Linux (or Arch-based) system.
 

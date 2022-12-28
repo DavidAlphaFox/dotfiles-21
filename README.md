@@ -1,5 +1,6 @@
 # Neon's Dotfiles
 
+[![Github Stars](https://img.shields.io/github/stars/GoodBoyNeon/dotfiles?color=89b4fa&label=Stars&logoColor=1e1e2e&style=for-the-badge)
 [![GitHub Stars](https://img.shields.io/github/stars/GoodBoyNeon/dotfiles.svg)](https://github.com/GoodBoyNeon/dotfiles/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/GoodBoyNeon/dotfiles.svg)](https://github.com/GoodBoyNeon/dotfiles/issues)
 [![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/GoodBoyNeon/dotfiles)

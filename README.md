@@ -1,13 +1,7 @@
 # Neon's Dotfiles
 
-<<<<<<< HEAD
 [![Github Stars](https://img.shields.io/github/stars/GoodBoyNeon/dotfiles?color=89b4fa&label=Stars&logoColor=1e1e2e&style=for-the-badge)](https://github.com/GoodBoyNeon/dotfiles/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/goodboyneon/dotfiles?color=fab387&style=for-the-badge)](https://github.com/GoodBoyNeon/dotfiles/issues)
-=======
-[![GitHub Stars](https://img.shields.io/github/stars/GoodBoyNeon/dotfiles.svg)](https://github.com/GoodBoyNeon/dotfiles/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/GoodBoyNeon/dotfiles.svg)](https://github.com/GoodBoyNeon/dotfiles/issues)
-[![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/GoodBoyNeon/dotfiles)
->>>>>>> fb88965 (Update polybar config)
 
 > These are my personal configuration files I use on a daily basis. The files are most compatible on an Arch Linux (or Arch-based) system.
 
@@ -62,6 +56,6 @@ Finally, run the script:
 
 ## License
 
->You can check out the full license [here](https://github.com/GoodBoyNeon/dotfiles/blob/master/LICENSE)
+> You can check out the full license [here](https://github.com/GoodBoyNeon/dotfiles/blob/master/LICENSE)
 
 This project is licensed under the terms of the **MIT** license.
